@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/MsfP29DA8C8AAAAC/south-park-bank.gif" width="300"/>
 
 
-Este é o um exercício desenvolvido durante o curso de desenvolvimento de software com foco em backend da [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software). É um protótipo de uma API para banco digital. Nesse módulo ainda não haviamos aprendido a fazer verificação de senha criptografada, nem conexão com banco de dados, por isso, essa API não utiliza esses recursos e os dados ficam persistidos na memória. Mas deixo aqui para verificar minha evolução. 
+Este é o exercício desenvolvido durante o curso de desenvolvimento de software com foco em backend da [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software). É um protótipo de uma API para banco digital. Nesse módulo ainda não haviamos aprendido a fazer verificação de senha criptografada, nem conexão com banco de dados, por isso, essa API não utiliza esses recursos e os dados ficam persistidos na memória. Mas deixo aqui para verificar minha evolução. 
 
 ## Estrutura do código fonte 
 
