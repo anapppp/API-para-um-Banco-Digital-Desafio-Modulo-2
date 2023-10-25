@@ -132,7 +132,7 @@ Realiza o saque de um valor em uma determinada conta bancária. A requisição d
 {
 	"numero_conta": "1",
 	"valor": 1900,
-    "senha": "123456"
+        "senha": "123456"
 }
 ```
 O saque fica registrado no array `saques` inicializado no [banco de dados](#estrutura-do-código-fonte) da seguinte forma:
